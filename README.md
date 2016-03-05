@@ -19,21 +19,21 @@ I have included some common (_to me_) styles here.
 3. Under "_Custom Styling Instructions_", **Add Theme CSS into Selection**, select "Choose File" and load one of the .css files from this repo.
 4. Then press the "Add Theme" button.
 
-    ![Adding a theme CSS](add-theme.png)
+    ![Adding a theme CSS](images/add-theme.png)
 
 5. Repeat for each css style you want to use.
 
 ### Select Style
 To select a theme to use, from MarkView Options &rarr; Document Theme:
 
-![Choosing a theme](choose-theme.png)
+![Choosing a theme](images/choose-theme.png)
 
 
 ### Allow File Access
 It's important to turn **On** _Allow access to file URLs_ for the extension.
 Under Chrome "_Manage Extensions_", find the **MarkView** entry and allow this access:
 
-![Allow file access](allow-access.png)
+![Allow file access](images/allow-access.png)
 
 
 ### Loading a Markdown file
